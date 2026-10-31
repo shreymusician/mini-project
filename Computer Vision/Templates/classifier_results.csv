@@ -1,0 +1,1 @@
+run_id,date,test_set,seed,n_images,accuracy,macro_f1,worst_class,worst_class_recall,latency_ms,device,notes

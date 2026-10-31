@@ -1,0 +1,1 @@
+test_id,date,link(wifi/hotspot4g/4g_modem),distance_m,rtt_median_ms,rtt_p95_ms,loss_pct,rssi_dbm,snapshot_delivery_s,notes

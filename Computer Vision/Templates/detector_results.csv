@@ -1,0 +1,1 @@
+run_id,date,model,imgsz,epochs,train_images,val_images,test_images,precision,recall,mAP50,mAP50_95,latency_ms,device,notes
